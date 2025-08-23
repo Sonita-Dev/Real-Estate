@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { assets } from "../assets/assets/assets";
+import { assets } from "../assets/assets/assets.js";
 
 const Navbar = () => {
   const [showMobileMenu, setShowMobileMenu] = useState(false);

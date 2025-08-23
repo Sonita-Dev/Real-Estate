@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { assets, projectsData } from "../assets/assets/assets";
+import { assets, projectsData } from "../assets/assets/assets.js";
 import { motion } from "framer-motion";
 
 const Projects = () => {
